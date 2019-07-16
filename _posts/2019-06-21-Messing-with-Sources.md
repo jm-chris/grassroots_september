@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Messing with Sources"
+date:    2019-06-21 12:01:17 -0400
+categories: trial and error
+---
+
+## Introduction
+
+### The Maoist Dossier: Archive and Ephemera
+ 
+At the height of the Cultural Revolution, a division of the rebel-aligned Zhejiang Workers’ Congress published a biting takedown of party revisionists. Packaged as a parody of the dossier system, the single-issue booklet was titled, _Beat the Down Dogs_.[^1] Its cover featured the familiar Cultural Revolution iconography of a proletarian hero impaling the revisionist leadership on a railway spike as Chairman Mao’s face hovered over the scene like a red sun. Inside, _Beat the Down Dogs_ printed the “dossiers” of twelve revisionist leaders—Liu Shaoqi, Deng Xiaoping, Peng Zhen, Tao Zhu, among others. To any Chinese reader in the 1960s, the format of the contents would have been instantly recognizable as emulating the genre of personnel files, but the dossiers were unlike any others.
+For instance, the “dossier” of Liu Shaoqi placed a pockmarked, forlorn caricature of the late Premier alongside the standard fields that formed the header portion of cadre background forms (Fig. 1):
+ (img)
+
+> “Birth Name: Liu Shaoqi  Real Name: Pervert Liu  |  Aliases: China’s Khruschev, the Black Commander  Year of Birth: 1899  |  Origin: Hunan, Ning County, Huaminglou Township  Class Origin: Landlord  Political Activity: Renegade, bandit, and traitor, and leader of all of the above
+
+The file proceeded to offer variations on the conventional sections on the dossier, including  “Family and Family’s Political Situation,” “So-called Publications” and “Criminal History.” These sections detailed, among other misdeeds, Liu’s romantic liaisons (naming four women he had “abandoned”), his cover-up of treasonous activities during the revolution (using the “plot of bitter flesh”), and a selection of his counter-revolutionary remarks (“In this world, there is neither absolute love, nor absolute hate”).[^2]
+
+Other Chinese leaders came in for similar treatment. Luo Ruiqing, the once-powerful head of the Central Bureau of Public Security, was classified as a ‘capitulationist,’ ‘fake proletarian,’ and ‘big spy.’ Tan Zhenlin suffered the most grotesque portrait, supplemented by a field describing his “Vulgar Philosophy”: “Good food, clothes, housing, and entertainment; add some science and physical education and that’s socialism!” Tao Zhu’s file, emulating the conventional use of appendices in dossiers, even reprinted a Nationalist Party “Evaluation Letter” as evidence of an enemy conspiracy.
+(img)
+###### Fig. 2 Tan, Luo, and Yang Shangkun’s ‘dossiers’ from *Beat the Down Dogs*(1968)
+
+
+Little of *Beat the Down Dogs* would qualify as subtle, but the booklet’s dark humor resonated deeper and closer to home. By the time of the Cultural Revolution, the dossier system had grown into a near-universal institution of classified files on Chinese citizens maintained by their bureaucratic superiors. Access to a dossier—the ability to read, edit, categorize and archive—was a privilege of entrenched power. Most likely, any person reading *Beat the Down Dogs* resided on the other side of the dossier system, and would have experienced its probing routines firsthand  as a subject of registration, investigation, and evaluation. Chinese citizens never saw the contents of their own file. Seeing the dossier of a senior leader was all but politically inconceivable. Placing party leaders in that compromised position—as the subject of a file—might have been read as a subversive commentary on the socialist political order, but at least everyone could appreciate the irony. The radicals behind *Beat the Down Dogs*, in their critique of entrenched bureaucratic power, had appropriated one of its preeminent artifacts.
+
+This dissertation traces a unique object and institution—the dossier—through Maoist China. It is a history of file-keeping and preserved knowledge, the neuroses of bureaucracy, paper-bound routines, and the lives subjected to archive. It follows the path of recent scholarly approaches in reading the dossier “along the archival grain,” exploring continuities in material, political, bureaucratic, and epistemic approaches to doing things with files. I extend this critical focus in engaging the dossier as an archive of everyday politics, revealing the mundane, material sources of bureaucratic authority, and the unintended consequences of the will to social knowledge. 
+(img)
+###### Fig. 3 An early cadre dossier (compiled 1949-50)
+
+Despite its constant presence in life under Maoism, the dossier is an understudied and misunderstood topic of historical research.[^3] The proximate origins of the dossier are found in the institution of CCP personnel records in the revolutionary capital of Yan’an, launched as an eclectic set of practices in the 1940s to enable internal surveillance of the party rank-and-file. Following liberation, an emergent system of internal personnel dossiers was routinized and successively extended to broader groups of cadres, professionals, workers, and students. Drawing inspiration from the individual file systems employed in the Soviet Union, the formal aim of the new PRC dossier system was to advise the allocation of labor and expertise in a centrally planned economy. As socialist construction extended state control to all fields of Chinese society, personnel administration became increasingly commensurate with socialist governance, and the personnel archive expanded to encompass broad segments of the Chinese population.
+
+Political surveillance was tightly entwined with the routines of the dossier. In the Mao era, the personnel records served a secondary purpose as an instrument for monitoring social threats, collectively forming a ‘living’ archive of “political historical problems” among the population. One of the primary responsibilities of work unit administrators, working in conjunction with the local Public Security Bureau, was to prepare detailed personal histories, evaluations, and investigative reports on persons under their jurisdiction. For cadres and citizens alike, information recorded in their dossier provided the material grounds for political opportunity or discipline. A standard set of documents were kept in the dossier file as a permanent record of an individual’s social identity, supporting paper routines to bureaucratically mark professional ability, class status, political history, and personal relationships. The paper routines of the dossier consumed the bureaucratic occupation and organized the lives of Chinese subjects through subtle, unexpected, and profound measures.
+
+[^1]: Beat the Down Dogs_ 痛打落水狗 (Zhejiang Workers Congress 浙江省工代会斗批改组, 1968).
+[^2]: The “Plot of Bitter Flesh” is known as one of the ’36 Stratagems’ a compilation of classical military stratagems with a long written and oral history. The “Bitter Flesh” refers to a strategic sacrifice for greater gain.
+[^3]: What I refer to as the personnel ‘dossier’ is commensurate with the Chinese _renshi dang’an_ 人事档案, or colloquially _geren dang’an_ 个人档案. English translations occasionally give ‘personnel file’ or ‘personal file’ as alternatives, which have unintentionally produced a fair degree of confusion in the Anglophone literature.
