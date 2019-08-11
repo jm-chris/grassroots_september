@@ -1,0 +1,22 @@
+---
+layout: none
+---
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/doc3_2019-05-24 15.15.13_17.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/doc3_2019-05-24 15.15.13_17/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/doc3_2019-05-24 15.15.13_17",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 3408,
+    "height": 2064
+  },
+  "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/doc3_2019-05-24 15.15.13_17.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

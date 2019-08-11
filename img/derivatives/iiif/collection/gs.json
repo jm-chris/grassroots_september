@@ -1,0 +1,36 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/gs.json",
+  "@type": "sc:Collection",
+  "label": "gs",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/doc1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "doc1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/doc3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "doc3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/doc4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "doc4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/doc5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "doc5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/doc2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "doc2"
+    }
+  ]
+}
