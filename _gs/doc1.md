@@ -12,11 +12,11 @@ related_reference: 'Republished as Zhang Letian and Yunxiang Yan, eds, Personal 
   Li Tian and Yan Yunxiang, "Self-Cultivation of the Socialist New Person in Maoist
   China: Evidence from a Family’s Private Letters, 1961–1986," The China Journal 82
   (2019): 88-110.'
-pages: '8'
+pages: '17'
 order: '0'
 layout: grassroots_item
 collection: gs
-thumbnail: "/img/derivatives/iiif/images/doc1_196606263/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/doc1_196606263/full/full/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/doc1_ab/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/doc1_ab/full/full/0/default.jpg"
 manifest: "/img/derivatives/iiif/doc1/manifest.json"
 ---

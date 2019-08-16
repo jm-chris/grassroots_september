@@ -29,6 +29,7 @@ logo:             '/assets/logo.png'
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
+theme: wax_theme
 permalink: 'pretty'
 sass:
   style: compressed

@@ -11,7 +11,7 @@ layout: none
     "genre": "work journal",
     "related_reference": null,
     "collection": "gs",
-    "thumbnail": "/img/derivatives/iiif/images/doc4_2019-05-24 15.25.17_20/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/doc4_ab/full/250,/0/default.jpg",
     "permalink": "/gs/doc4",
     "lunr_id": 0
   },
@@ -24,7 +24,7 @@ layout: none
     "genre": "diary",
     "related_reference": "Jeremy Brown, City versus Countryside in Maoist China (Cambridge: Cambridge Univ Press, 2012)",
     "collection": "gs",
-    "thumbnail": "/img/derivatives/iiif/images/doc5_001/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/doc5_ab/full/250,/0/default.jpg",
     "permalink": "/gs/doc5",
     "lunr_id": 1
   },
@@ -37,7 +37,7 @@ layout: none
     "genre": "letters",
     "related_reference": "Republished as Zhang Letian and Yunxiang Yan, eds, Personal Letters between Lu Qingsheng and Jiang Zhenyuan, 1961-1986 (Leiden: Brill, 2018); see also, Li Tian and Yan Yunxiang, \"Self-Cultivation of the Socialist New Person in Maoist China: Evidence from a Family’s Private Letters, 1961–1986,\" The China Journal 82 (2019): 88-110.",
     "collection": "gs",
-    "thumbnail": "/img/derivatives/iiif/images/doc1_196606263/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/doc1_ab/full/250,/0/default.jpg",
     "permalink": "/gs/doc1",
     "lunr_id": 2
   },
@@ -50,7 +50,7 @@ layout: none
     "genre": "letters",
     "related_reference": "Xu Xiuli, \"Geming Niandai de Yinshi Ernü: Du Zhang Ruirong de Jiaxin\" Historical Monthly 4 (2017): 49-63.",
     "collection": "gs",
-    "thumbnail": "/img/derivatives/iiif/images/doc2_X13Y017_179/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/doc2_ab/full/250,/0/default.jpg",
     "permalink": "/gs/doc2",
     "lunr_id": 3
   },
@@ -59,11 +59,11 @@ layout: none
     "creator": "Zhou Shengkang",
     "occupation": "Village Cadre",
     "place": "Haining County, Zhejiang",
-    "label": "The Work Jounal of Zhou Shenkang",
+    "label": "The Work Journal of Zhou Shenkang",
     "genre": "work journal",
     "related_reference": "Republished as Zhang Letian, Xi Fuqun and Yunxiang Yan, eds, Work Journals of Zhou Shengkang, 1961-1982 (Leiden: Brill 2018); see also: Zhang Letian, Gaobie Geming: Renmin Gongshe Yanjiu (Shanghai: Dongfang Chubanshe, 1998).",
     "collection": "gs",
-    "thumbnail": "/img/derivatives/iiif/images/doc3_2019-05-24 15.15.13_13/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/doc3_ab/full/250,/0/default.jpg",
     "permalink": "/gs/doc3",
     "lunr_id": 4
   }
